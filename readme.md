@@ -14,3 +14,6 @@ Results Page – Form Screenshot
 
 Results Page – Results Table Screenshot
 ![](labimages/lab5img4.png)
+
+User Story 3.1.1 – Relevant Courses from Minor/Certificate Search
+![](labimages/lab5img5.png)
