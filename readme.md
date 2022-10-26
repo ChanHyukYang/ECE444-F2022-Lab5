@@ -3,4 +3,14 @@
 This is a clone of the repo https://github.com/nelaturuk/education_pathways with changes made by Chan Yang, Arsh Kadakia, and Lance Canlas
 
 # Activity 1
-![image](https://user-images.githubusercontent.com/56766097/197833697-dcf0d09e-ebb4-42c8-b182-d26c05f6274a.png)
+![](labimages/lab5img1.png)
+
+# Activity 2-5
+Home Pages Screenshot
+![](labimages/lab5img2.png)
+
+Results Page – Form Screenshot
+![](labimages/lab5img3.png)
+
+Results Page – Results Table Screenshot
+![](labimages/lab5img4.png)
